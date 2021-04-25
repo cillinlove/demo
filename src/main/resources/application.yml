@@ -1,0 +1,14 @@
+#阿里云MQ配置
+aliyun:
+  mq:
+    producerId: PID_HLHT_INNER
+    accessKey: 8ce78e8f40fd4c46ab8d3d117a09b82b
+    secretKey: 45Tji+trbCrC9CAhmZWtZUfHA0k=
+    onsAddr: http://mq.server.sgcc.com:8080/rocketmq/nsaddr4broker-internal
+    consumeThreadNums: 20
+  oss:
+    bucketName: osstesthlht
+    endpoint: http://oss-cn-beijing.aliyuncs.com
+    accessKeyId: LTAI4FfKA9JxUikD5x3Fo6TE
+    accessKeySecret: a9aU0dFKdRwX3wz6tvTzbA7Mr6NpJi
+
